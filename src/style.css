@@ -1,0 +1,21 @@
+body {
+    background-color: #ede9e9;
+    text-align: center;
+}
+
+button {
+    border-style: solid;
+    margin-top: 20px;
+    margin-block-end: 15px;
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+    background-color: #303030;
+    color: aliceblue;
+    border-radius: 100px;
+}
+
+img {
+    margin-top: 15px;
+    width: 300px;
+}
